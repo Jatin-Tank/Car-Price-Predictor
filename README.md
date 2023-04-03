@@ -9,19 +9,19 @@ The dataset used for this project is the Car Features and MSRP dataset from Kagg
 ## Requirements
 This project requires Python 3 and the following Python libraries:
 
- numpy
- pandas
-> scikit-learn
-> seaborn
-> matplotlib
+> **numpy**
+> **pandas**
+> **scikit-learn**
+> **seaborn**
+> **matplotlib**
 
 ## Areas of Usage
-> Car Dealerships: Car dealerships can use this project to predict the price of a car based on its features. This can help them set the right price for the car and make informed decisions while negotiating with customers.
+> **Car Dealerships:** Car dealerships can use this project to predict the price of a car based on its features. This can help them set the right price for the car and make informed decisions while negotiating with customers.
 
-> Insurance Companies: Insurance companies can use this project to estimate the value of a car and determine the insurance premiums for the car.
+> **Insurance Companies:** Insurance companies can use this project to estimate the value of a car and determine the insurance premiums for the car.
 
-> Car Buyers: Car buyers can use this project to get an estimate of the price of a car based on its features. This can help them negotiate a better deal with the seller.
+> **Car Buyers:** Car buyers can use this project to get an estimate of the price of a car based on its features. This can help them negotiate a better deal with the seller.
 
-> Car Manufacturers: Car manufacturers can use this project to analyze the demand for different car models and determine the optimal prices for their cars.
+> **Car Manufacturers:** Car manufacturers can use this project to analyze the demand for different car models and determine the optimal prices for their cars.
 
-> Automotive Researchers: Automotive researchers can use this project to study the impact of different features on the price of a car and identify trends in the automotive industry.
+> **Automotive Researchers:** Automotive researchers can use this project to study the impact of different features on the price of a car and identify trends in the automotive industry.
