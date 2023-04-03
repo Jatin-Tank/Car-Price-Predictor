@@ -6,11 +6,11 @@ This is a machine learning project that predicts the price of a car based on its
 ## Dataset
 The dataset used for this project is the Car Features and MSRP dataset from Kaggle. The dataset contains information about various car models, including features such as engine size, horsepower, and fuel efficiency, as well as the manufacturer's suggested retail price (MSRP).
 
-##Requirements
+## Requirements
 This project requires Python 3 and the following Python libraries:
 
-> numpy
-> pandas
+ numpy
+ pandas
 > scikit-learn
 > seaborn
 > matplotlib
