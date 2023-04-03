@@ -9,11 +9,11 @@ The dataset used for this project is the Car Features and MSRP dataset from Kagg
 ## Requirements
 This project requires Python 3 and the following Python libraries:
 
-> **numpy**
-> **pandas**
-> **scikit-learn**
-> **seaborn**
-> **matplotlib**
+- **numpy**
+- **pandas**
+- **scikit-learn**
+- **seaborn**
+- **matplotlib**
 
 ## Areas of Usage
 - **Car Dealerships:** Car dealerships can use this project to predict the price of a car based on its features. This can help them set the right price for the car and make informed decisions while negotiating with customers.
